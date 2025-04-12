@@ -39,3 +39,5 @@
 #### security: jwt, oauth
 
 #### management: jira, trello
+
+#### methodologies: agile, scrum
