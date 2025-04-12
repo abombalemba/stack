@@ -29,3 +29,13 @@
 #### metrics (view): grafana
 
 #### modeling: uml (plantuml), c4
+
+#### api: openapi, graphql
+
+#### container: docker, docker compose, k8s
+
+#### ci/cd: jenkins, gitlab, github actions
+
+#### security: jwt, oauth
+
+#### management: jira, trello
