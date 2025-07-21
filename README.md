@@ -38,6 +38,6 @@
 
 #### security: jwt, oauth
 
-#### management: jira, trello
+#### management: jira, trello, kaiten, aspro.agile, weeek, yougile, teamstorm
 
 #### methodologies: agile, scrum
