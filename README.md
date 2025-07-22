@@ -12,7 +12,7 @@
 
 #### cloud storage: yandex.cloud, min.io, amazon s3
 
-#### task's queue: rabbitmq, celery, kafka, ibmmq, apache pulsar
+#### task's queue: rabbitmq, celery, kafka, ibmmq, apache pulsar, mosquitto, nats
 
 #### mailing: sendgrid, getresponse, postmark, rupost (astra linux)
 
