@@ -8,7 +8,7 @@
 
 #### cache: redis, memcache
 
-#### database: postresql, mongodb, mysql, clickhouse
+#### database: chartdb, postresql, mongodb, mysql, clickhouse, redis, couchdb
 
 #### cloud storage: yandex.cloud, min.io, amazon s3
 
