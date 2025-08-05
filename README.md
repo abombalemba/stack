@@ -41,3 +41,7 @@
 #### management: jira, trello, kaiten, aspro.agile, weeek, yougile, teamstorm
 
 #### methodologies: agile, scrum
+
+
+
+#### other: httpbin
