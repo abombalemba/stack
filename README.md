@@ -44,4 +44,6 @@
 
 #### iac: puppet, chef, ansible, salt
 
+#### virtualisation: vagrant, hyper-v, vmware
+
 #### other: httpbin
