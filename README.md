@@ -34,7 +34,7 @@
 
 #### container: docker, docker compose, k8s
 
-#### ci/cd: jenkins, gitlab, github actions
+#### ci/cd: jenkins, gitlab, github actions, bamboo
 
 #### security: jwt, oauth
 
@@ -42,6 +42,6 @@
 
 #### methodologies: agile, scrum
 
-
+#### iac: puppet, chef, ansible, salt
 
 #### other: httpbin
