@@ -22,7 +22,7 @@
 
 #### logging (view): kibana
 
-#### logging: elk, graphite
+#### logging: elk, graphite, nagios
 
 #### metrics (collection): prometheus
 
