@@ -32,6 +32,8 @@
 
 #### api: openapi, graphql
 
+#### api (dev): postman, insomnia, apidog
+
 #### container: docker, docker compose, k8s
 
 #### ci/cd: jenkins, gitlab, github actions, bamboo
@@ -47,3 +49,15 @@
 #### virtualisation: vagrant, hyper-v, vmware
 
 #### other: httpbin
+
+#### software: cpu-z, crystaldiskinfo, wireshark, advanced ip scanner, portmaster, speedfan
+
+#### mqtt: mqttbox, mqtt explorer 
+
+#### design: figma, pixso, aseprite
+
+#### win10: devtoys, eartrumpet, translucenttb
+
+#### software other: colormania, csved, filezilla, github desktop, localcooling, xampp
+
+#### notes: obsidian
